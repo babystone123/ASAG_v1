@@ -1,5 +1,5 @@
 """
-简答题评分，模型部分——text entailment
+简答题评分，模型部分
 """
 import os
 import time
